@@ -1,0 +1,14 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="UniSole logo mark">
+  <defs>
+    <linearGradient id="uniGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5b2a86"/>
+      <stop offset="1" stop-color="#c0328e"/>
+    </linearGradient>
+  </defs>
+  <!-- top chevron -->
+  <path d="M50 8 L86 29 L72 37 L50 24 L28 37 L14 29 Z" fill="url(#uniGrad)"/>
+  <!-- bottom chevron -->
+  <path d="M50 92 L14 71 L28 63 L50 76 L72 63 L86 71 Z" fill="url(#uniGrad)"/>
+  <!-- center S bars -->
+  <path d="M32 42 L68 42 L68 50 L44 50 L44 52 L56 52 L68 58 L32 58 L32 50 L56 50 L56 48 L44 48 Z" fill="url(#uniGrad)"/>
+</svg>
