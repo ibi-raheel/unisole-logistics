@@ -1,7 +1,32 @@
-# UniSole Logistics — Website
+<div align="center">
 
-A fast, responsive marketing site for UniSole Logistics (truck dispatch service).
-Built with plain HTML/CSS/JS — no build step, no dependencies.
+<img src=".github/assets/cover.png" alt="UniSole Logistics" width="100%">
+
+# UniSole Logistics
+
+**Marketing site for the truck-dispatch service behind Freightly.**
+
+<p>
+<a href="https://unisolelogistics.com"><img alt="Live" src="https://img.shields.io/badge/Live-open%20%E2%86%97-c8f560?style=for-the-badge&labelColor=0b0c10"></a>
+</p>
+
+<p>
+<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+</p>
+
+</div>
+
+<br>
+
+> **The front door for a 45-truck dispatch business**  
+> for owner-operators looking for a dispatcher
+
+## What it did
+
+Services, pricing, equipment and an FAQ in plain HTML, CSS and JavaScript: no build step, no dependencies, fast on a phone in a truck cab.
 
 ## Pages
 | File | Purpose |
@@ -45,3 +70,11 @@ To make it live (free options): [Formspree](https://formspree.io),
 ## Deploy (free)
 Drag the folder into [Netlify Drop](https://app.netlify.com/drop) or connect it to
 [Vercel](https://vercel.com) / GitHub Pages. It's a static site — hosting is free.
+
+---
+
+<div align="center">
+
+<sub>Built by <a href="https://github.com/ibi-raheel">Muhammad Ibrahim Raheel</a> · more work at <a href="https://ibiraheel.com">ibiraheel.com</a></sub>
+
+</div>
